@@ -1,2 +1,1 @@
-# E-library-and-book-store-management
-A digital platform for efficient book cataloguing, inventory tracking, user authentication, and transaction management, enhancing accessibility and automation for libraries and bookstores.
+E-Library and Bookstore Management System is a web-based platform designed to simplify and automate library and bookstore operations. It allows users to register, log in securely, browse or search books, and manage borrow/return activities. Admins can handle inventory, add or update book details, and track transactions. The system also features an integrated bookstore for purchasing and reviewing books, enhancing accessibility and user experience for both library members and customers.
